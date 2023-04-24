@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*header*/
+header {
+  width: 100%;
+  padding-left: 122px;
+}
+
+.ul-flex {
+  display: flex;
+  margin-top: 183px;
+}
+
+.ul-flex li {
+  padding-right: 25px;
+  list-style: none;
+}
+
+.h1-img {
+  width: 1072px;
+  display: flex;
+  margin-top: 29px;
+  justify-content: space-between;
+}
+
+.h1-img h1 {
+  width: 628px;
+  font-family: Roboto Slab;
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.header-img img {
+  width: 304px;
+  height: 356px;
+  margin-left: 140px;
+}
+
+.p-span {
+  width: 414px;
+}
+
+.p-span h1 {
+  width: 616px;
+
+}
+
+.p-span p {
+
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 177px;
+
+}
+
+
+.blue-box {
+  width: 483px;
+  height: 200px;
+  padding: 19.2px 27px 67.7px 26px;
+  background-color: #1E4681;
+  font-size: 25px;
+  color: white;
+  font-family: Roboto slab;
+  margin-left: 330px;
+}
+
+/*main*/
+main {
+  padding-left: 121px;
+}
+
+.Course {
+  display: flex;
+}
+
+.course-header {
+  font-family: Roboto Slab;
+  font-size: 55px;
+  margin-bottom: 18px;
+}
+
+.course-description {
+  width: 662px;
+  height: 374px;
+  font-size: 24px;
+  font-family: Roboto;
+  margin-top: 173px;
+}
+
+#second-p {
+  margin-top: 60px;
+}
+
+.course-img1 img {
+  width: 314px;
+  height: 315px;
+  margin-top: 296px;
+  margin-left: 190px;
+}
+
+.Course-2 {
+  display: flex;
+  margin-top: 94px;
+}
+
+.Course-img2 {
+  width: 232px;
+  height: 203px;
+  margin-right: 132px;
+}
+
+#description-1 {
+  height: 39px;
+  width: 150px;
+  margin-right: 95px;
+  margin-top: 75px;
+}
+
+#description-1 p {
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+#description-1 h4 {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+#description-2 {
+  height: 39px;
+  width: 150px;
+  margin-right: 93px;
+  margin-top: 75px;
+}
+
+#description-2 p {
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+#description-2 h4 {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+
+#description-3 {
+  height: 39px;
+  width: 150px;
+  margin-top: 75px;
+}
+
+#description-3 p {
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+#description-3 h4 {
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+/*Second section start*/
+.Service {
+  width: 974px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.service-header {
+  height: 93px;
+  width: 667px;
+  font-family: Roboto Slab;
+  font-size: 55px;
+  font-weight: 700;
+  margin-top: 160px;
+}
+
+.service-d1 {
+  height: 74px;
+  width: 223px;
+  margin-right: 122px;
+  margin-top: 70px;
+}
+
+.service-d2 {
+  height: 74px;
+  width: 223px;
+  margin-right: 122px;
+  margin-top: 70px;
+}
+
+.service-d3 {
+  height: 74px;
+  width: 223px;
+  margin-left: 80px;
+  margin-top: 70px;
+}
+
+.Service h4 {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #1E4681;
+
+}
+
+.Service p {
+  font-family: Roboto;
+  font-size: 18px;
+  width: 223px;
+}
+
+.Service #p2{
+  width: 273px;
+}
+
+.Service #p3{
+  width: 243px;
+}
+
+/*Second section end*/
+
+/*third-section start*/
+.third-section {
+  margin-top: 150px;
+}
+
+.third-section h2 {
+  font-family: Roboto Slab;
+  font-size: 55px;
+}
+
+.third-section ul {
+  height: 374px;
+  width: 662px;
+  margin-top: 21px;
+}
+
+.third-section ul li {
+  font-family: Roboto;
+  font-size: 24px;
+}
+
+/*third-section end*/
+
+/*four-section start*/
+
+.four-section {
+  width: 100%;
+}
+
+.four-section h2 {
+  font-family: Roboto Slab;
+  font-size: 55px;
+  margin-top: 200px;
+  margin-bottom: 95px;
+}
+
+.img-box {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card {
+  width: 30%;
+  height: 328px;
+  margin-left: 19px;
+  box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  margin-top: 41px;
+}
+
+.card h4 {
+  font-family: Roboto;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.card p {
+  font-family: Roboto;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.card8-p {
+  position: relative;
+  bottom: 20px;
+}
+.monaliza{
+  background-color: #EFEFEF;
+  padding: 50px;
+  padding-left: 70px;
+  margin-top: 40px;
+}
+.monaliza-container{
+  margin-top: 40px;
+}
+
+.monaliza-header{
+  font-size: 30px;
+}
+.monaliza-photo-fb{
+  display: flex;
+}
+.monaliza-wrapper{
+  background-color: white;
+  width: 650px;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+}
+
+/*four-section end*/
+
+/* smartfon  */
+@media (min-width: 320px) and (max-width: 991px) {
+  body {
+    width: 375px;
+    margin: 0 auto;
+  }
+}
+
+/* tablet */
+@media (min-width: 992px) and (max-width: 1279px) {
+  body {
+    width: 834px;
+    margin: 0 auto;
+  }
+}
+
+/* desktop */
+@media (min-width: 1280px) {
+  body {
+    width: 1440px;
+    margin: 0 auto;
+  }
+}
